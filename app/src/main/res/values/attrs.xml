@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomScrollTab">
+        <attr name="tabPaddingLeftRight" format="dimension" />
+        <attr name="scrollOffset" format="dimension" />
+        <attr name="textSize" format="dimension" />
+        <attr name="shouldExpand" format="boolean" />
+        <attr name="textOriginColor" format="color|reference" />
+        <attr name="textChangeColor" format="color|reference" />
+    </declare-styleable>
+</resources>
